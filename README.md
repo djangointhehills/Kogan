@@ -1,10 +1,10 @@
 # Kogan Test
 
-Setup Instructions
+# Setup Instructions
 
 Language: Python3.6
 
-Required installations
+## Required installations
 
 In the root directory of the project run:
 pip3 install -r requirements.txt
