@@ -1,6 +1,6 @@
 # Kogan Test
 
-# Setup / Run Instructions
+## Setup / Run Instructions
 
 Language: Python3.6
 
